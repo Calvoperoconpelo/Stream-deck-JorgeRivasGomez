@@ -1,0 +1,113 @@
+body {
+    font-size: 62.5%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+
+header {
+    padding: 2rem 3rem;
+}
+header h1 {
+    font-size: 4.8rem;
+    color: #740303;
+    text-align: center;
+}
+
+main nav {
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+header nav {
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+footer nav ul {
+    background-color: black;
+    padding: 1rem;
+
+}
+header nav ul {
+    background-color: orange;
+    padding: 1rem;
+}
+header nav ul li {
+    display: inline;
+    padding: 0.5rem 2rem;
+    text-align: center;
+}
+footer nav ul li {
+    display: inline;
+    padding: 0.5rem 2rem;
+    text-align: center;
+    font-size :2rem;
+}
+img#portada {
+    width: 100%;
+}
+
+h2{
+    color: #000000;
+    font-size: 4rem;
+    text-align: center;
+}
+em {
+    color: blue;
+    font-size: 2rem;
+}
+p {
+    font-size: 1.6rem;
+    color: #000000;
+    text-align: center;
+}
+img#introduccion {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}img#pena {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}img#precios {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}img#usos {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img#enlaces {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    color: #000000;
+    font-size: 4rem;
+    text-align: center;
+}
+h4{
+    color: #000000;
+    font-size: 4rem;
+    text-align: center;
+}
+h5{
+    color: #000000;
+    font-size: 4rem;
+    text-align: center;
+}h6{
+    color: #000000;
+    font-size: 4rem;
+    text-align: center;
+}
